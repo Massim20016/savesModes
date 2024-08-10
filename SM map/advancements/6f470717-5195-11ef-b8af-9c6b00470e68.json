@@ -2230,15 +2230,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_sink_light": {
-    "criteria": {
-      "has_bottom": "2024-08-10 04:16:18 +0300"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/granite_desk": {
     "criteria": {
       "has_planks": "2024-08-10 01:28:54 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-08-10 04:16:18 +0300"
     },
     "done": true
   },
@@ -3779,9 +3779,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/shutters": {
+  "cgm:recipes/cgm/bazooka": {
     "criteria": {
-      "has_wood": "2024-08-10 04:24:20 +0300"
+      "has_redstone": "2024-08-10 00:56:23 +0300"
     },
     "done": true
   },
@@ -3791,9 +3791,9 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/bazooka": {
+  "mcwwindows:recipes/shutters": {
     "criteria": {
-      "has_redstone": "2024-08-10 00:56:23 +0300"
+      "has_wood": "2024-08-10 04:24:20 +0300"
     },
     "done": true
   },
@@ -4085,15 +4085,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/door_mat": {
-    "criteria": {
-      "has_wheat": "2024-08-10 03:31:23 +0300"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/andesite_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-08-10 00:40:04 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-08-10 03:31:23 +0300"
     },
     "done": true
   },
