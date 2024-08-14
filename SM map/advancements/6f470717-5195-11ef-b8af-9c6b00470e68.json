@@ -5012,6 +5012,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2024-08-14 21:56:02 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_mail_box": {
     "criteria": {
       "has_chest": "2024-08-07 23:10:31 +0300"

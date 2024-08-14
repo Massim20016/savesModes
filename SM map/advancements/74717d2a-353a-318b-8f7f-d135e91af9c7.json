@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-08-14 20:30:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-08-03 20:03:45 +0300"
@@ -2948,6 +2954,12 @@
     },
     "done": true
   },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-08-14 20:34:06 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_mail_box": {
     "criteria": {
       "has_chest": "2024-08-10 00:47:25 +0300"
@@ -4351,6 +4363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-08-14 20:18:37 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2024-08-10 00:47:25 +0300"
@@ -4378,6 +4396,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-08-03 20:09:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-08-14 23:00:37 +0300"
     },
     "done": true
   },
